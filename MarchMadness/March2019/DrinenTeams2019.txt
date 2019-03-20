@@ -1,0 +1,69 @@
+id,Team,Seed
+1,Abilene Christian,15
+2,Arizona St,11
+3,Auburn,5
+4,Baylor,9
+5,Belmont,11
+6,Bradley,15
+7,Buffalo,6
+8,Cincinnati,7
+9,Colgate,15
+10,Duke,1
+11,Fairleigh Dickinson,16
+12,Florida,10
+13,Florida St,4
+14,Gardner-Webb,16
+15,Georgia St,14
+16,Gonzaga,1
+17,Houston,3
+18,Iona,16
+19,Iowa,10
+20,Iowa St,6
+21,Kansas,4
+22,Kansas St,4
+23,Kentucky,2
+24,LSU,3
+25,Liberty,12
+26,Louisville,7
+27,Marquette,5
+28,Maryland,6
+29,Michigan,2
+30,Michigan St,2
+31,Minnesota,10
+32,Mississippi St,5
+33,Montana,15
+34,Murray St,12
+35,NC Central,16
+36,Nevada,7
+37,New Mexico St,12
+38,North Carolina,1
+39,North Dakota St,16
+40,Northeastern,13
+41,Northern Kentucky,14
+42,Ohio St,11
+43,Oklahoma,9
+44,Old Dominion,14
+45,Ole Miss,8
+46,Oregon,12
+47,Prairie View,16
+48,Purdue,3
+49,Saint Louis,13
+50,Saint Marys,11
+51,Seton Hall,10
+52,St. Johns,11
+53,Syracuse,8
+54,Temple,11
+55,Tennessee,2
+56,Texas Tech,3
+57,UC Irvine,13
+58,UCF,9
+59,Utah St,8
+60,VCU,8
+61,Vermont,13
+62,Villanova,6
+63,Virginia,1
+64,Virginia Tech,4
+65,Washington,9
+66,Wisconsin,5
+67,Wofford,7
+68,Yale,14

@@ -1,0 +1,69 @@
+ID,TEAM,SEED,REGION,BPI
+East1,Duke,1,East,21.7
+East2,Michigan State,2,East,19.7
+East3,LSU,3,East,12.8
+East4,Virginia Tech,4,East,16.6
+East5,Mississippi St,5,East,13
+East6,Maryland,6,East,12.1
+East7,Louisville,7,East,13.9
+East8,VCU,8,East,10.4
+East9,UCF,9,East,9.6
+East10,Minnesota,10,East,8
+East11,Belmont,11,East,9
+East11(2),Temple,11(2),East,6.7
+East12,Liberty,12,East,7.2
+East13,Saint Louis,13,East,4.5
+East14,Yale,14,East,6.2
+East15,Bradley,15,East,-0.6
+East16,North Dakota St,16,East,-1.5
+East16(2),North Carolina Central,16(2),East,-5.4
+South1,Virginia,1,South,23.8
+South2,Tennessee,2,South,17.2
+South3,Purdue,3,South,16.7
+South4,Kansas State,4,South,12.6
+South5,Wisconsin,5,South,14.8
+South6,Villanova,6,South,13
+South7,Cincinnati,7,South,11.8
+South8,Ole Miss,8,South,9
+South9,Oklahoma,9,South,10.1
+South10,Iowa,10,South,10.1
+South11,Saint Mary's,11,South,10.8
+South12,Oregon,12,South,10.2
+South13,UC Irvine,13,South,5.6
+South14,Old Dominion,14,South,3.5
+South15,Colgate,15,South,2.5
+South16,Gardner-Webb,16,South,1.8
+West1,Gonzaga,1,West,23.8
+West2,Michigan,2,West,17.8
+West3,Texas Tech,3,West,16.9
+West4,Florida St,4,West,14.4
+West5,Marquette,5,West,12.2
+West6,Buffalo,6,West,12.8
+West7,Nevada,7,West,13.2
+West8,Syracuse,8,West,10.9
+West9,Baylor,9,West,9.9
+West10,Florida,10,West,11.6
+West11,Arizona State,11,West,7.4
+West11(2),St. Johns,11(2),West,6.7
+West12,Murray State,12,West,8.9
+West13,Vermont,13,West,8
+West14,N Kentucky,14,West,4.9
+West15,Montana,15,West,3.1
+West16,Fairleigh Dickinson,16,West,-1.2
+West16(2),Prairie View A&M,16(2),West,-2.5
+Midwest1,North Carolina,1,Midwest,19.2
+Midwest2,Kentucky,2,Midwest,17.7
+Midwest3,Houston,3,Midwest,14.8
+Midwest4,Kansas,4,Midwest,13.6
+Midwest5,Auburn,5,Midwest,15.6
+Midwest6,Iowa State,6,Midwest,14.4
+Midwest7,Wofford,7,Midwest,14.1
+Midwest8,Utah State,8,Midwest,9.3
+Midwest9,Washington,9,Midwest,8.4
+Midwest10,Seton Hall,10,Midwest,8.4
+Midwest11,Ohio State,11,Midwest,9.9
+Midwest12,New Mexico St,12,Midwest,7.7
+Midwest13,Northeastern,13,Midwest,5.7
+Midwest14,Georgia State,14,Midwest,4.1
+Midwest15,Abil Christian,15,Midwest,1.7
+Midwest16,Iona,16,Midwest,-0.8
