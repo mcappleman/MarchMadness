@@ -23,10 +23,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="MarchMadness.py" />
+    <Compile Include="scrape_picks_drinen.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="March2019\DrinenTeams2019.csv" />
     <Content Include="March2019\DrinenTeams2019.txt" />
+    <Content Include="March2019\Team_Translations.json" />
     <Content Include="March2019\StartingOdds.csv" />
     <Content Include="March2019\Starting_Bracket.csv" />
     <Content Include="requirements.txt" />
